@@ -21,7 +21,7 @@ git clone https://github.com/j0k-3r/SUBJ.git
 API_KEY (IMPORTANT)
 ---------------
 
-- your should have an account in https://securitytrails.com.
+- you should have an account in https://securitytrails.com.
 - open configration file and add your securitytrails API_KEY.
 ```
 cd SUBJ
