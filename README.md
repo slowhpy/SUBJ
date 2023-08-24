@@ -1,7 +1,7 @@
 # SUBJ - Subdomain Finder
 
 ![Build](https://img.shields.io/badge/Built%20with-Python-Blue)
-[![Twitter](https://img.shields.io/twitter/follow/J_0K_3R?label=Follow)](https://twitter.com/J_0K_3R)
+[![Twitter](https://img.shields.io/twitter/follow/sl0wh_py?label=Follow)](https://twitter.com/sl0wh_py)
 
 > A simple subdomain finder
 
@@ -9,13 +9,13 @@ Thanks to @GodfatherOrwa methodology about recon, this tool bring subdomains fro
 
 **Here** you can download @GodfatherOrwa methodology about recon https://www.houseofhackers.xyz/t/recon-skills-and-tips-by-god-father-orwa-iwcon-w2022-talk-slides/25.
 
-**subj** is being actively developed by [@J_0K_3R](https://twitter.com/J_0K_3R)
+**subj** is being actively developed by [@sl0wh_py](https://twitter.com/sl0wh_py)
 
 Installation & Usage
 ------------
 **Requirement: python 3.x**
 ```
-git clone https://github.com/j0k-3r/SUBJ.git
+git clone https://github.com/slowhpy/SUBJ.git
 ```
 
 API_KEY (IMPORTANT)
